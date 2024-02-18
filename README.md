@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 My name is Thibault, I'm a french software engineer who wants to improve and acquire new skills.<br/>
 Here, you can find everything that I learn, some things I created...If you have any question, ask me about ⚡
 
-Actually, I am learning ReactJS and Golang by building a project
-
 # Technologies used
 
 - Langages :
